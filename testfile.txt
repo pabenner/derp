@@ -1,0 +1,46 @@
+git with scott chacon.
+
+gitref.org
+
+git-scm.org? com?
+
+
+
+
+stash - central repository. it's gui... source tree
+
+
+git checkout -b webset33939393
+
+
+origin - is out of the box name for your default remote.
+
+master - trunk
+
+pull - svn pull    "fetch and merge"   dont' use this (chacon)
+
+
+
+git add (file)  (-b)
+
+git status gif diff
+
+git commit
+
+or
+git commit -a
+
+
+
+
+
+
+
+git checkout master
+git merge bis5534
+
+head - last known state
+  |
+master
+  |
+98v89
